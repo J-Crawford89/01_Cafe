@@ -1,0 +1,16 @@
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\CafeTests.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\CafeTests.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Cafe.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Cafe.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Cafe.exe.config
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\obj\Debug\CafeTests.csprojAssemblyReference.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\obj\Debug\CafeTests.csproj.CopyComplete
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\obj\Debug\CafeTests.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\01_Cafe\CafeTests\obj\Debug\CafeTests.pdb
